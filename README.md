@@ -9,3 +9,32 @@
 - files will be compiled on Ubuntu 14.04 LTS, using gcc.
 - We will use the gcc flags -Wall -Werror -Wextra and -pedantic.
 - install SDL2
+
+### Preview
+
+### Installation
+- Clone this repo:
+```
+git clone https://github.com/zicro/Maze.git
+```
+### Compiling
+- This project use  *gcc* and *make* .
+
+### Running
+- After successfully compiling run the program by  :
+```
+./maze MAP
+```
+
+ *MAP* is the name of the file in the maps folder. 
+ You can create other maps and pass them while running program as above. 
+ Map files accept only the allowed characters.
+
+### Controls
+- `W` : Moving forward
+- `S` : Moving backward
+- `A` : Look left
+- `D` : Look right
+
+### Author
+- [Omar Larhnimi](https://github.com/zicro)
