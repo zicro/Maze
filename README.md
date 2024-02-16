@@ -11,6 +11,7 @@
 - install SDL2
 
 ### Preview
+![background](https://user-images.githubusercontent.com/88714347/171422634-8adc8811-2559-4ba1-967f-4caf909c3f22.gif)
 
 ### Installation
 - Clone this repo:
